@@ -48,7 +48,7 @@ I use Arch, do CTFs, build tools when existing ones annoy me, and have a growing
 
 | 🏆 Achievement | Details |
 |:---|:---|
-| **Pentathon 2025** | Rank 14 in the national CTF, among 22,000+ participants |
+| **Pentathon 2025** | Grand Finalist, among 22,000+ participants |
 | **Global Game Jam Chandigarh 2026** | Best Visual Aspects Award — Discosu |
 | **TryHackMe** | Top 5% |
 | **TCS HackQuest Season 10** | Prime |
