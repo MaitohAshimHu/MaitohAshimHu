@@ -41,6 +41,29 @@ Currently interested in:
 
 I use Arch, do CTFs, build tools when existing ones annoy me, and have a growing collection of repos that started with *"wait, what if I made this?"*
 
+
+## `$ cat achievements.txt`
+
+<div align="center">
+
+| 🏆 Achievement | Details |
+|:---|:---|
+| **Pentathon 2025** | Rank 14 in the national CTF, among 22,000+ participants |
+| **Global Game Jam Chandigarh 2026** | Best Visual Aspects Award — Discosu |
+| **TryHackMe** | Top 5% |
+| **TCS HackQuest Season 10** | Prime |
+| **YAMA Cybersecurity Community** | Co-founded a community of 500+ members |
+
+</div>
+
+### Certifications
+
+- WCAP — Wraith Certified AI Pentester
+- CLLMSE — Certified LLM Security Expert
+- IBM Cybersecurity Analyst
+- Oracle Generative AI Developer
+
+
 ## `$ ls ~/projects`
 
 A few things I've made. Different problems, different rabbit holes.
