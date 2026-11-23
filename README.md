@@ -16,6 +16,18 @@
 <a href="https://fortidev.site">
   <img src="https://img.shields.io/badge/Building-Fortified_Developments-111111?style=for-the-badge&logoColor=white" alt="Fortified Developments" />
 </a>
+<a href="https://linkedin.com/in/bharydangerous">
+  <img src="https://img.shields.io/badge/LinkedIn-bharydangerous-B5121B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ashim.dev.sec@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ashim.dev.sec%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/916204312017">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B916204312017-B5121B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://instagram.com/bharydangerous">
+  <img src="https://img.shields.io/badge/Instagram-bharydangerous-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 <br/><br/>
 
@@ -67,6 +79,22 @@ I use Arch, do CTFs, build tools when existing ones annoy me, and have a growing
 ## `$ ls ~/projects`
 
 A few things I've made. Different problems, different rabbit holes.
+
+### ⚡ AI & Systems stuff
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>jc-agent</h3>
+      <p><b>Hyper-fast, provider-agnostic native Rust AI terminal workstation &amp; persistent MCP hub.</b></p>
+      Built because existing AI dev tools are bloated Electron apps that charge $30/month just to wipe your context when switching models. Built on native Rust and Ratatui, keeps MCP tools (like 260+ Ghidra tools) alive across model switches with F2, stores keys in the Linux OS keyring, supports uncensored models without corporate babysitting, and uses scoped profiles so you don't burn tokens dumping 300 schemas into every prompt.
+      <br/><br/>
+      <a href="https://github.com/MaitohAshimHu/jc-agent">
+        <img src="https://img.shields.io/badge/VIEW_REPO-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Explore jc-agent" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🔴 Security stuff
 
@@ -239,6 +267,14 @@ The tools I work with and explore. Familiarity varies by technology; the project
 <a href="https://ashim.dev">Portfolio</a>
 &nbsp; • &nbsp;
 <a href="https://fortidev.site">Fortidev</a>
+&nbsp; • &nbsp;
+<a href="https://linkedin.com/in/bharydangerous">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:ashim.dev.sec@gmail.com">Email</a>
+&nbsp; • &nbsp;
+<a href="https://wa.me/916204312017">WhatsApp</a>
+&nbsp; • &nbsp;
+<a href="https://instagram.com/bharydangerous">Instagram</a>
 
 <br/><br/>
 
