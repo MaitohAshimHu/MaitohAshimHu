@@ -89,7 +89,7 @@ A few things I've made. Different problems, different rabbit holes.
       <p><b>Hyper-fast, provider-agnostic native Rust AI terminal workstation &amp; persistent MCP hub.</b></p>
       Built because existing AI dev tools are bloated Electron apps that charge $30/month just to wipe your context when switching models. Built on native Rust and Ratatui, keeps MCP tools (like 260+ Ghidra tools) alive across model switches with F2, stores keys in the Linux OS keyring, supports uncensored models without corporate babysitting, and uses scoped profiles so you don't burn tokens dumping 300 schemas into every prompt.
       <br/><br/>
-      <a href="https://github.com/MaitohAshimHu/jc-agent">
+      <a href="https://github.com/MaitohAshimHu/jc-agent-public-doc-">
         <img src="https://img.shields.io/badge/VIEW_REPO-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Explore jc-agent" />
       </a>
     </td>
